@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi63H-HsZ3sgfOFxbVz280Y8ETqSh-9RsKgQ&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(245, 245, 247);
+}
+.count-down{
+    display: flex;
+    font-size: 70px;
+    margin-left: 59%;
+
+} 
+body h1{
+    font-style: italic;
+    margin-bottom: 70px;
+    margin-left: 59%;
+}
+.clock{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px;
+    flex-direction: column;
+    font-size: 55px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+    
